@@ -140,19 +140,19 @@ http://localhost:8000
 ## 系統畫面展示
 
 ### 首頁
-![首頁](/screenshots/home.png)
+![首頁](screenshots/home.png)
 - 簡潔的檔案上傳介面
 - 支援拖放上傳
 - 即時處理狀態顯示
 
 ### 摘要生成
-![摘要頁面](/screenshots/summary.png)
+![摘要頁面](screenshots/summary.png)
 - 清晰的摘要展示
 - 結構化的執行計劃
 - 一鍵下載功能
 
 ### 歷史記錄
-![歷史記錄](/screenshots/history.png)
+![歷史記錄](screenshots/history.png)
 - 歷史記錄管理
 - 快速查看過往摘要
 - 檔案刪除功能
